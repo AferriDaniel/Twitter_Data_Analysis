@@ -15,7 +15,6 @@ def about():
 @app.route("/signup/")
 def show_signup_form():
     return flask.render_template("user_info_form.html")
-
 if __name__ == '__main__':
     app.run(debug = True)
 
