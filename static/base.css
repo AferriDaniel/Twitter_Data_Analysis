@@ -14,3 +14,8 @@ nav{
 title{
     font-size: 39px;
 }
+
+h1{
+    font-size: 30px;
+    font-family: 'Ubuntu', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+}
